@@ -1,10 +1,10 @@
 {
-	"name": "ui-lib",
+	"name": "ui-lib2",
 	"displayName": "[#00aaff]UI Lib[]",
 	"author": "deltanedas",
 	"description": "Library for other mods that unifies and simplifies UI creation.",
-	"version": "4.18.0",
+	"version": "4.18.1",
 	"hidden": true,
 	"minGameVersion": 140,
-	"repo": "deltanedas/ui-lib"
+	"repo": "atomsnow/ui-lib2"
 }
